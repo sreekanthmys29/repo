@@ -1,0 +1,1 @@
+This microservices branch was initially derived from AngularJS version to demonstrate how to split sample Spring application into microservices. To achieve that goal, we use Spring Cloud Gateway, Spring Cloud Circuit Breaker, Spring Cloud Config, Micrometer Tracing, Resilience4j, Open Telemetry and the Eureka Service Discovery from the Spring Cloud Netflix technology stack.
